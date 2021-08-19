@@ -1,3 +1,3 @@
 # QuantumTitanicClassification
 
-Uses the IBM Quantum Aqua machine to simulate a Quantum Support Vector Machine that classifies whether a passenger on the titanic would have survived or not. This is based on test/training data that was cleaned and feature-engineered. 
+Uses the IBM Quantum's Qiskit Aqua machine to simulate a Quantum Support Vector Machine that classifies whether a passenger on the titanic would have survived or not. This is based on test/training data that was cleaned and feature-engineered. 
